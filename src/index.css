@@ -1,0 +1,114 @@
+*{
+
+box-sizing: border-box;
+
+
+
+}
+
+body {
+
+margin: 0;
+
+
+}
+
+nav {
+
+background-color: white;
+
+
+}
+
+nav {
+display: flex;
+height: 80px;
+background-color:rgba(14, 14, 14, 0);
+padding: 20px 36px;
+
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+}
+
+.collage {
+
+    justify-content:left;
+
+
+}
+
+ul {
+
+    display: inline;
+    padding: px;
+    justify-content: end;
+    float: left;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: arial;
+    margin-left: 600px;
+}
+
+li {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style: none;
+    display: inline;
+    text-align: left;
+    float: left;
+
+}
+
+
+
+h1 {
+    margin-top: 0;
+font-size:40px;
+font-family: arial;
+padding-left: 40px;
+text-align: ;
+color: black;
+
+
+
+}
+
+
+p {
+margin-top: 0;
+    font-size:25px;
+    font-weight: ;
+    padding-left: 40px;
+    font-family: arial;
+    text-align: ;
+    color: rgb(94, 94, 94);
+    max-width: 60%;
+    
+    
+    }
+
+.experiences{
+
+margin-top: 40px;
+
+
+}
+
+    
+
+.experiences--collage {
+
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20%;
+    height: 60%;
+    width: 60%;
+    background-color:rgba(0, 0, 0, 0);
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+
+}
+
